@@ -10,7 +10,7 @@ The objective of this project is to demonstrate practical SQL skills commonly us
 
 ## Project Objectives
 
-- Explore the structure and contents of multiple datasets.
+- -Explore the structure and contents of multiple datasets.
 - - Understand the dimensions and characteristics of each dataset.
 - - Analyze date-related trends where applicable.
 - - Perform numerical analysis using SQL aggregate functions.
@@ -22,7 +22,7 @@ The objective of this project is to demonstrate practical SQL skills commonly us
 ## EDA Workflow
 
 ### 1. Data Exploration
-- Inspect dataset structure
+- - Inspect dataset structure
 - - Review column names and data types
 - - Understand the contents of each table
 - - Explore missing values where applicable
@@ -30,7 +30,7 @@ The objective of this project is to demonstrate practical SQL skills commonly us
 - ---
 
 ### 2. Dimensions Exploration
-- Count rows and columns
+- - Count rows and columns
 - - Identify unique values
 - - Explore categorical variables
 - - Examine dataset composition
@@ -38,7 +38,7 @@ The objective of this project is to demonstrate practical SQL skills commonly us
 - ---
 
 ### 3. Date Exploration
-- Identify date ranges
+- - Identify date ranges
 - - Analyze yearly and monthly trends
 - - Explore changes over time
 
@@ -47,7 +47,7 @@ The objective of this project is to demonstrate practical SQL skills commonly us
 ### 4. Measure Exploration (Numerical Analysis)
 Perform statistical summaries using SQL aggregate functions:
 
-- COUNT()
+- - COUNT()
 - - SUM()
 - - AVG()
 - - MIN()
@@ -98,7 +98,7 @@ Throughout these projects, SQL is used to answer business-related questions by:
 
 ## Skills Demonstrated
 
-- SQL
+- - SQL
 - - Exploratory Data Analysis (EDA)
 - - Data Exploration
 - - Data Aggregation
@@ -113,9 +113,6 @@ Throughout these projects, SQL is used to answer business-related questions by:
 
 This project demonstrates how SQL can be used beyond querying data to perform comprehensive Exploratory Data Analysis (EDA). By combining data exploration, aggregation, ranking, and trend analysis across multiple datasets, the project highlights practical analytical techniques used to uncover meaningful insights and support informed business decisions.
 
----
-
-** Data Analyst**
-
+- ---
 ### Skills
 - SQL
